@@ -1,0 +1,9 @@
+Shrey Shah(sxs190184) Deepanshu Sharma(dxs190018)
+CS 6301.011 Implementation of Data Structures and Algorithm
+Short project 7 Binary Search Tree
+
+Run command : javac BinarySearchTree.java to compile the file.
+Run command: java BinarySearchTree  to run the file.
+
+List of functions implemented:
+find(), add(), remove(), get(), contains(), splice(), min(), max(), toArray(), inorder()
